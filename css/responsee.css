@@ -219,6 +219,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
   padding:10px;
 }
 .margin {margin:0 -0.625em;}
+.outline: #00FF00 dotted thick;
 .line {clear:left;}
 .line .line {padding:0;}
 .hide-l {display:none;}
